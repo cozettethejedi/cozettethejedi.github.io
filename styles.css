@@ -1,0 +1,12 @@
+img {
+    width: 50px;
+    display: block;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(215,247,245);
+    text-align: center;
+    font-family: "Courier New";
+    font-size: 15px ;
+}
